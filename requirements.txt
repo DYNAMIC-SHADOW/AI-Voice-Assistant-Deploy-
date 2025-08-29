@@ -10,6 +10,8 @@ python-multipart
 assemblyai
 
 google-generativeai
+google-genai
+
 
 pydub
 
