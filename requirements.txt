@@ -9,7 +9,7 @@ python-multipart
 
 assemblyai
 
-google-genai
+google-generativeai
 
 pydub
 
