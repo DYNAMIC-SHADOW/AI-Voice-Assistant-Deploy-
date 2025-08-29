@@ -5,7 +5,7 @@ from typing import Type, Optional
 from fastapi import FastAPI, WebSocket
 from fastapi.responses import HTMLResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
-from google import genai
+import google.generativeai as genai
 from google.genai import types
 from tavily import TavilyClient
 import requests
