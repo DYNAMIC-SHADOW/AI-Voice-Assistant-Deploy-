@@ -101,6 +101,13 @@ Built with ❤️ by \[Himanshu Harsh ]
 
 ---
 
+## 📬 Contact
+
+💡 Got feedback or ideas? Let’s connect!
+**GitHub:** [@DYNAMIC-SHADOW](https://github.com/DYNAMIC-SHADOW/30-Days-of-AI-Voice-Agents-Murf-AI-)
+**LinkedIn:** \[www.linkedin.com/in/himanshu-harsh-2004-]
+
+
 ## 📜 License
 
 MIT License – free to use & modify.
