@@ -19,7 +19,6 @@ sounddevice
 numpy
 websockets
 
-pyaudio
 
 
 aiohttp
